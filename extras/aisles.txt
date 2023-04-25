@@ -1,0 +1,113 @@
+Baby Accessories|1_1_1
+Baby Bath & Skin Care|1_1_2
+Diapers & Wipes|1_1_3
+Formula & Baby Food|1_1_4
+Bagels & Muffins|1_2_1
+Baguettes & French Bread|1_2_2
+Bakery Catering Trays|1_2_3
+Breakfast & Donuts|1_2_4
+Buns & Rolls|1_2_5
+Cakes & Cupcakes|1_2_6
+Cookies & Bakery Snacks|1_2_7
+Desserts & Cheesecakes|1_2_8
+Pitas & Flatbreads|1_2_9
+Sandwich Breads|1_2_10
+Bakery Beverages & Snack|1_2_11
+Tortillas, Tacos & Wraps|1_2_12
+Cocoa & Hot Chocolate|1_5_1
+Coconut Water|1_5_2
+Coffee|1_5_3
+Energy Drinks & Shots|1_5_4
+Juice & Smoothies|1_5_5
+Soft Drinks|1_5_7
+Dry Beans & Lentils|1_6_1
+Pizza Crust & Sauce|1_6_7
+Skillet Dinners & Sides|1_6_12
+Stuffing Mix|1_6_13
+Canned Fruit|1_9_2
+Canned Meals|1_9_3
+Canned Seafood & Fish|1_9_5
+Deli Catering Trays|1_12_1
+Deli Soups|1_12_8
+Deli Specialty Foods|1_12_9
+Deli Sandwiches & Wraps|1_12_11
+Kosher Foods|1_13_3
+Flowers|1_14_1
+Antacid & Digestive Aids|1_17_1
+Deodorants|1_17_4
+Beef|1_19_1
+Chicken & Turkey|1_19_2
+Fish & Shellfish|1_19_3
+Lamb|1_19_4
+Prepared & Frozen Meat|1_19_6
+Salami & Lunch Meats|1_19_7
+Sausage,Hot Dogs & Bacon|1_19_8
+Jam,Spreads & Condiments|1_20_1
+Honey, Syrup & Nectar|1_20_2
+Fresh Fruits|1_23_1
+Fresh Vegetables & Herbs|1_23_2
+Nuts & Dried Fruits|1_23_3
+Packaged Produce|1_23_4
+Bulk Foods|1_23_5
+Chips|1_24_1
+Cookies|1_24_2
+Crackers|1_24_3
+Fruit Cups & Applesauce|1_24_4
+Fruit Snacks|1_24_5
+Gelatin & Pudding|1_24_6
+Jerky & Meat Snacks|1_24_7
+Nuts, Seeds & Trail Mix|1_24_8
+Popcorn & Grain Cakes|1_24_9
+Pretzels|1_24_10
+Salsa & Dips|1_24_11
+Beer|1_29_1
+Spirits & Mixers|1_29_2
+Wine|1_29_3
+Kombucha|1_5_6
+Sports Drinks|1_5_8
+Tea|1_5_9
+Water & Sparkling Water|1_5_10
+Grains|1_6_2
+Macaroni & Cheese|1_6_3
+Pasta|1_6_4
+Pasta Sauce|1_6_5
+Pasta Side Dishes|1_6_6
+Potato Side Dishes|1_6_8
+Rice|1_6_9
+Rice Side Dishes|1_6_10
+Seeds|1_6_11
+Breakfast Bars & Bites|1_7_1
+Cereal|1_7_2
+Frozen Breakfast|1_7_3
+Instant Breakfast Drink|1_7_4
+Pancake & Waffle Mix|1_7_5
+Syrup|1_7_6
+Toaster Pastries|1_7_7
+Canned Beans|1_9_1
+Canned Meat|1_9_4
+Canned Tomatoes|1_9_6
+Canned Vegetables|1_9_7
+Deli Salads|1_12_5
+Deli Sides & Meals|1_12_6
+Deli Snacks Packs|1_12_7
+Deli Pizza|1_12_10
+Sushi|1_12_12
+Deli Frozen Desserts|1_12_13
+Deli Bar & Food Service|1_12_14
+Asian Foods|1_13_1
+Hispanic Foods|1_13_2
+Misc International Foods|1_13_4
+Decor|1_14_2
+Greeting Cards|1_14_3
+Candles, Gift Bag, Wrap|1_14_4
+Frozen Appetizers|1_15_1
+Nutrition Solutions|1_17_2
+Cold & Allergy|1_17_3
+Pork|1_19_5
+Soups & Ramen|1_9_8
+Stocks, Broth & Bouillon|1_9_9
+Noodles|1_9_10
+Butter & Sour Cream|1_11_1
+Deli Cheese|1_12_2
+Deli Dips & Hummus|1_12_3
+Deli Meat|1_12_4
