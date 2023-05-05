@@ -7,4 +7,4 @@ Possible improvements:
   - support for more stores (this should be easy as their backends are very similar)
   - better nutrient database (usda one is not always accurate, only has data for around 88% of the products, and doesn't have very many nutrients listed)
 
-email tristan@leafpte.org for questions
+email system@leafpte.org for questions
